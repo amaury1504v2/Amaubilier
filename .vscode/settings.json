@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "Amaubilier",
+            "dialect": "MySQL",
+            "name": "Amaubilier",
+            "password": "33ritherdon",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
